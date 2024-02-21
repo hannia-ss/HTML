@@ -83,7 +83,6 @@ p{
 }
 .cursos{
     width: 100%;
-    background-image: url(imagenes/cursos.png);
     height: 100%;
     padding: 10px;
     display: flex;
