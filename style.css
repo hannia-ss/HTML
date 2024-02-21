@@ -2,7 +2,7 @@ header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: rgb(4, 2, 69);
+    background-color: #1542e5;
     width: 100%;
 }
 a{
@@ -15,7 +15,7 @@ header ul{
     flex-direction: row;
     font-family: fantasy;
     font-size: x-large;
-    color: rgb(255, 238, 218);
+    color: #d8a3e7;
 }
 header ul li{
     margin: 10px;
@@ -28,12 +28,12 @@ img{
 }
 h1{
     font-size: 5ex;
-    color: #1982e4;
+    color: #A56EE5;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 h2{
     font-size: 4ex;
-    color: #1982e3;
+    color: #6e84e6;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 p{
@@ -44,14 +44,14 @@ p{
 }
 .presentacion{
     width: 100%;
-    background-color: azure;
+    background-color: #cfbbe6;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 .presentacion h1{
     font-size: 70px;
-    color: rgb(92, 92, 252);
+    color: #E66ECB;
 }
 .presentacion p{
     width: 70%;
@@ -101,6 +101,6 @@ p{
     overflow: hidden;
 }
 .carousel img {
-    width: 1280px; 
-    height: 350px; 
+    width: 100%; 
+    height: 50vh; 
 }
